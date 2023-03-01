@@ -19,11 +19,14 @@ This implementation makes use of the Cora dataset from [2].
 
 ## Requirements
 
-  * PyTorch 0.4 or 0.5
-  * Python 2.7 or 3.6
-scipy 
-numpy
-python对应版本需升级
+  * PyTorch 1.4.0
+  * Python 3.6
+  * scipy 
+  * numpy
+  * torchvision 0.5.0
+  * cudatookit 10.1.243
+  * cudann 6.0
+
 
 ## Usage
 
