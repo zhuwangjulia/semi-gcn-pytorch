@@ -26,7 +26,7 @@ This implementation makes use of the Cora dataset from [2].
   * torchvision 0.5.0
   * cudatookit 10.1.243
   * cudann 6.0
-
+    maybe ipykernal
 
 ## Usage
 
